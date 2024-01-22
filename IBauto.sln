@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBauto", "IBauto\IBauto.csproj", "{C0F658EB-4311-45B2-B5A3-97F605CF93EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F658EB-4311-45B2-B5A3-97F605CF93EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F658EB-4311-45B2-B5A3-97F605CF93EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F658EB-4311-45B2-B5A3-97F605CF93EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F658EB-4311-45B2-B5A3-97F605CF93EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB0592D-6ACC-411E-9382-20B743278556}
+	EndGlobalSection
+EndGlobal
